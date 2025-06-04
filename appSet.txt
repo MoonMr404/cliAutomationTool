@@ -1,0 +1,4 @@
+C:\Program Files\Google\Chrome\Application\chrome.exe
+C:\Users\Francesco\Desktop\spotifyLink
+C:\Users\Francesco\AppData\Local\Programs\cron-web\Notion Calendar.exe
+C:\Program Files\Corsair\Corsair iCUE5 Software\iCUE.exe
