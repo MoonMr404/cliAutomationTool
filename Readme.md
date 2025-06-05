@@ -3,7 +3,7 @@
 ## Simple Explanation
 
 This project has three distinct ways to manage and launch installed applications:<br>
-(currently MacOs Only)
+
 
 ---
 
